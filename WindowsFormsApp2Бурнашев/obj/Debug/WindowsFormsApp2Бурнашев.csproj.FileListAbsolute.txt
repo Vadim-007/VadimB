@@ -1,0 +1,10 @@
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\bin\Debug\WindowsFormsApp2Бурнашев.exe.config
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\bin\Debug\WindowsFormsApp2Бурнашев.exe
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\bin\Debug\WindowsFormsApp2Бурнашев.pdb
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\WindowsFormsApp2Бурнашев.csproj.AssemblyReference.cache
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\WindowsFormsApp2Бурнашев.Form1.resources
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\WindowsFormsApp2Бурнашев.Properties.Resources.resources
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\WindowsFormsApp2Бурнашев.csproj.GenerateResource.cache
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\WindowsFormsApp2Бурнашев.csproj.CoreCompileInputs.cache
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\WindowsFormsApp2Бурнашев.exe
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\WindowsFormsApp2Бурнашев.pdb

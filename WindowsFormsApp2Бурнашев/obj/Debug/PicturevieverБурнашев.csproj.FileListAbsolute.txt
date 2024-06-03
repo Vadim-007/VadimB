@@ -1,0 +1,10 @@
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\bin\Debug\PictureVieverBurnashevVV.exe.config
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\bin\Debug\PictureVieverBurnashevVV.exe
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\bin\Debug\PictureVieverBurnashevVV.pdb
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\PicturevieverБурнашев.csproj.AssemblyReference.cache
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\WindowsFormsApp2Бурнашев.Form1.resources
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\PictureVieverBurnashevVV.Properties.Resources.resources
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\PicturevieverБурнашев.csproj.GenerateResource.cache
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\PicturevieverБурнашев.csproj.CoreCompileInputs.cache
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\PictureVieverBurnashevVV.exe
+C:\Users\29393014\source\repos\WindowsFormsApp2Бурнашев\WindowsFormsApp2Бурнашев\obj\Debug\PictureVieverBurnashevVV.pdb
